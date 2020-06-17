@@ -1,1 +1,1 @@
-# crwn-clothing-firebase-user-auth
+This is a continuity of reactrouterdemo repo. Starting on the lesson 80. we integrate the Firebase to our application so that we have all the functionality of Backend without consuming much of our times as Frontend Developers.
